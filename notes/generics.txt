@@ -1,0 +1,13 @@
+generics
+
+ListAPIView
+CreateAPIView
+RetrieveAPIView
+UpdateAPIView
+DestroyAPIView
+
+
+
+ListCreateAPIView
+RetrieveUpdateAPIView
+RetrieveUpdateDestroyAPIView

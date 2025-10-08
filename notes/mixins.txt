@@ -1,0 +1,7 @@
+Mixins
+
+ListModelMixin
+CreateModelMixin
+RetriewModelMixin
+UpdateModelMixin
+DestroyModelMixin
